@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GoogleAdMob</string>
+
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_home_footer">ca-app-pub-4755320303380699/1447059966</string>
+    <string name="msg_welcome">Welcome Dude</string>
+    <string name="btn_fullscreen_ad">Click for full screen</string>
+
+</resources>
